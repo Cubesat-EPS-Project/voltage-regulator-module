@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI1470DH-T1-E3
+D SI1470DH-T1-E3, N-channel MOSFET Transistor 3.8 A 30 V, 6-Pin SC-70, SOT-363
+K
+F http://www.vishay.com/docs/74277/SI1470DH.pdf
+$ENDCMP
+#
+#End Doc Library

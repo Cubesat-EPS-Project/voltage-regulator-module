@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2990CMS#PBF
+D Linear Technology LTC2990CMS#PBF, 14 bit Serial ADC, 4-channel Differential Input, 10-Pin MSOP
+K
+F http://www.linear.com/docs/29813
+$ENDCMP
+#
+#End Doc Library

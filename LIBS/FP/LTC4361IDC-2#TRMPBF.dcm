@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4361IDC-2#TRMPBF
+D Surge Suppressors Overvoltage/Overcurrent Protection Controller with Auto-Retry
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4361-1-4361-2.pdf
+$ENDCMP
+#
+#End Doc Library
