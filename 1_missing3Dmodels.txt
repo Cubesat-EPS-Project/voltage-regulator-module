@@ -1,0 +1,27 @@
+### Missing 3D models - created on 2023-02-01 16:17
+### Printed by checking_3D_models plugin
+Board file: /mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/1.kicad_pcb
+3D missing models written to:
+/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/1_missing3Dmodels.txt
+-------
+('C2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/C3216JB1C226M160AB.stp')
+('R6', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/WSLP1206R0500FEA.stp')
+('R5', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/WSLP1206R0500FEA.stp')
+('J1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/packages3D/TerminalBlock_MetzConnect_Type055_RT01503HDWU_1x03_P5.00mm_Horizontal.wrl')
+('R1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/CR0805-FX-9532ELF.stp')
+('Boost_IC1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/LTC3426ES6#TRMPBF.stp')
+('U2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/LTC2990CMS#PBF.stp')
+('D1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/RBR3L40ADDTE25.stp')
+('J2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl')
+('R7', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/WSLP1206R0500FEA.stp')
+('Buck_IC1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/TPS62203DBVT.stp')
+('U3', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/LTC2990CMS#PBF.stp')
+('J3', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl')
+('C4', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/AFK106M35C12T-F.stp')
+('U1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/LTC2990CMS#PBF.stp')
+('R2', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/RST/30.9k/ul_RC0603FR-0730K9L/KiCAD/2022-12-29_14-17-30/2022-12-29_14-17-30.lib')
+('C1', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/AFK106M35C12T-F.stp')
+('C3', '/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/voltage-regulator-module/C1210C475K4RACAUTO.stp')
+-------
+NUM of 3D missing models:18
+checked extensions ['.stp', '.step', '.stpZ']
