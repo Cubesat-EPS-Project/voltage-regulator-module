@@ -2078,7 +2078,7 @@
     (property "Value" "10uF" (id 1) (at 68.58 118.11 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "capa 10uf:CAPAE530X610N" (id 2) (at 67.31 119.38 0)
+    (property "Footprint" "10uF MLCC:CAPC2012X94N" (id 2) (at 67.31 119.38 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.cde.com/resources/catalogs/AFK.pdf" (id 3) (at 64.77 119.38 0)
@@ -2150,7 +2150,7 @@
     (property "Value" "10uF" (id 1) (at 135.89 92.71 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "capa 10uf:CAPAE530X610N" (id 2) (at 134.62 93.98 0)
+    (property "Footprint" "10uF MLCC:CAPC2012X94N" (id 2) (at 134.62 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.cde.com/resources/catalogs/AFK.pdf" (id 3) (at 132.08 93.98 0)
@@ -2323,7 +2323,7 @@
       (reference "Buck_IC1") (unit 1) (value "TPS62203DBVT") (footprint "BUck TPS62203DBVT:SOT95P280X145-5N")
     )
     (path "/ceccba2c-fd35-4027-b469-b5251bf9371d"
-      (reference "C1") (unit 1) (value "10uF") (footprint "capa 10uf:CAPAE530X610N")
+      (reference "C1") (unit 1) (value "10uF") (footprint "10uF MLCC:CAPC2012X94N")
     )
     (path "/58050e2e-2661-4a39-9c6f-f880badad60f"
       (reference "C2") (unit 1) (value "22uF") (footprint "cap 22uF low esr and esl:C3216_Commercial")
@@ -2332,7 +2332,7 @@
       (reference "C3") (unit 1) (value "4.7uF") (footprint "cap 4.7uf:C1210")
     )
     (path "/e5d3408d-c91a-46dd-a8ed-70976bafd174"
-      (reference "C4") (unit 1) (value "10uF") (footprint "capa 10uf:CAPAE530X610N")
+      (reference "C4") (unit 1) (value "10uF") (footprint "10uF MLCC:CAPC2012X94N")
     )
     (path "/408b0048-2750-407d-ab86-a1e2f34d0c4c"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Schottky dd:DIOM5026X220N")
