@@ -1625,7 +1625,7 @@
     (uuid 408b0048-2750-407d-ab86-a1e2f34d0c4c)
     (property "Reference" "D1" (id 0) (at 118.4275 99.06 0))
     (property "Value" "D_Schottky" (id 1) (at 118.4275 101.6 0))
-    (property "Footprint" "Schottky dd:DIOM5026X220N" (id 2) (at 118.11 105.41 0)
+    (property "Footprint" "Schottky DD with stock:DIOM5126X265N" (id 2) (at 118.11 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 105.41 0)
@@ -2335,7 +2335,7 @@
       (reference "C4") (unit 1) (value "10uF") (footprint "10uF MLCC:CAPC2012X94N")
     )
     (path "/408b0048-2750-407d-ab86-a1e2f34d0c4c"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Schottky dd:DIOM5026X220N")
+      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Schottky DD with stock:DIOM5126X265N")
     )
     (path "/51b12217-3f6f-4523-ba9c-90af2efcba7f"
       (reference "I2C1") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
