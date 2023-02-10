@@ -1670,7 +1670,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 175.26 30.48 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 51b12217-3f6f-4523-ba9c-90af2efcba7f)
-    (property "Reference" "SCLSDA1" (id 0) (at 173.99 29.21 90)
+    (property "Reference" "I2C1" (id 0) (at 173.99 29.21 90)
       (effects (font (size 1.27 1.27) italic))
     )
     (property "Value" "EN" (id 1) (at 175.26 25.4 0)
@@ -2053,7 +2053,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 186.69 81.28 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cced1236-94c4-4406-ae7a-7e694e456057)
-    (property "Reference" "SCLSDA2" (id 0) (at 184.15 76.2 0)
+    (property "Reference" "I2C2" (id 0) (at 184.15 76.2 0)
       (effects (font (size 1.27 1.27) italic))
     )
     (property "Value" "EN" (id 1) (at 186.69 76.2 0)
@@ -2109,7 +2109,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 60.96 36.83 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid da964c11-8316-4be6-83b3-ae1c8d0e8293)
-    (property "Reference" "SCLSDA3" (id 0) (at 59.69 35.56 90)
+    (property "Reference" "I2C3" (id 0) (at 59.69 35.56 90)
       (effects (font (size 1.27 1.27) italic))
     )
     (property "Value" "EN" (id 1) (at 60.96 31.75 0)
@@ -2337,6 +2337,15 @@
     (path "/408b0048-2750-407d-ab86-a1e2f34d0c4c"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Schottky dd:DIOM5026X220N")
     )
+    (path "/51b12217-3f6f-4523-ba9c-90af2efcba7f"
+      (reference "I2C1") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
+    )
+    (path "/cced1236-94c4-4406-ae7a-7e694e456057"
+      (reference "I2C2") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
+    )
+    (path "/da964c11-8316-4be6-83b3-ae1c8d0e8293"
+      (reference "I2C3") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
+    )
     (path "/28059cb1-6349-43cb-8aef-aa43fbccf280"
       (reference "J1") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type055_RT01503HDWU_1x03_P5.00mm_Horizontal")
     )
@@ -2369,15 +2378,6 @@
     )
     (path "/5911308e-76fc-4c0b-85cd-ad01a45ac1d0"
       (reference "R7") (unit 1) (value "50m") (footprint "50m RST:RESC3216X88N")
-    )
-    (path "/51b12217-3f6f-4523-ba9c-90af2efcba7f"
-      (reference "SCLSDA1") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
-    )
-    (path "/cced1236-94c4-4406-ae7a-7e694e456057"
-      (reference "SCLSDA2") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
-    )
-    (path "/da964c11-8316-4be6-83b3-ae1c8d0e8293"
-      (reference "SCLSDA3") (unit 1) (value "EN") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical")
     )
     (path "/0b256487-9344-4785-bb3c-397bc7af7b0d"
       (reference "U1") (unit 1) (value "LTC2990") (footprint "MON & PROTECC:SOP50P490X110-10N")
