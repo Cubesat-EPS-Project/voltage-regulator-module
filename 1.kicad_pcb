@@ -654,7 +654,7 @@
     (property "Sheetname" "")
     (path "/408b0048-2750-407d-ab86-a1e2f34d0c4c")
     (attr smd)
-    (fp_text reference "D1" (at 0 0 180) (layer "F.SilkS")
+    (fp_text reference "D1" (at -0.1435 -3.64 180) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp b438c18a-bc9e-4822-993d-97b4851f7866)
     )
