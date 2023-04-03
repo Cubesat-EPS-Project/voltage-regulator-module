@@ -108,7 +108,7 @@
   (net 17 "Net-(J8-Pin_4)")
   (net 18 "Net-(J9-Pin_1)")
 
-  (footprint "MON & PROTECC:SOP50P490X110-10N" (layer "F.Cu")
+  (footprint "libs:SOP50P490X110-10N" (layer "F.Cu")
     (tstamp 077eb0d2-eb7f-4903-9ddf-06999887b6bd)
     (at 127 75.692 90)
     (descr "MS10(MSOP)-LTC2990")
@@ -182,14 +182,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/LIBS/3D/LTC2990CMS#PBF.stp"
+    (model "${KIPRJMOD}/packages3D/LTC2990CMS#PBF.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
+  (footprint "libs:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
     (tstamp 14547566-79a0-4bc4-81b2-973e130002fd)
     (at 112.522 106.68)
     (descr "solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm")
@@ -222,14 +222,14 @@
       (stroke (width 0.12) (type solid)) (fill none) (layer "F.Fab") (tstamp 8511165c-b200-4332-bcf1-a7beb622f7e8))
     (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_1") (pintype "passive") (tstamp 7a393b74-ee50-4e83-a873-545cb8cbc324))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
+    (model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
+  (footprint "libs:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
     (tstamp 1e5630e5-fcdf-40e0-ba9b-5cd543d57fee)
     (at 126.492 98.298)
     (descr "THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm")
@@ -272,7 +272,7 @@
       (net 6 "Net-(Boost_IC1-VIN)") (pinfunction "1") (pintype "passive") (tstamp 69313e03-8d2d-481d-9c47-68d649ecfa38))
   )
 
-  (footprint "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
+  (footprint "libs:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
     (tstamp 206f1ea5-727f-40e8-a8e5-b51a0416bf05)
     (at 175.26 106.68)
     (descr "solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm")
@@ -305,14 +305,14 @@
       (stroke (width 0.12) (type solid)) (fill none) (layer "F.Fab") (tstamp 3907f384-e2a2-423e-9695-cfe24f3a6fe4))
     (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_1") (pintype "passive") (tstamp a541f88a-ec61-4223-9f9a-71499ac4bfcf))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
+    (model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
+  (footprint "libs:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
     (tstamp 2e4e4f92-8fc7-4e4e-9d59-609b6f10724e)
     (at 138.176 102.87)
     (descr "THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm")
@@ -355,7 +355,7 @@
       (net 1 "Net-(Boost_IC1-SW)") (pinfunction "1") (pintype "passive") (tstamp fced0e49-e37e-49a7-9226-740bd1ec7a54))
   )
 
-  (footprint "10uF MLCC:CAPC2012X94N" (layer "F.Cu")
+  (footprint "libs:CAPC2012X94N" (layer "F.Cu")
     (tstamp 34323b1b-6392-401c-bd95-0b44542d8196)
     (at 142.748 86.868 180)
     (descr "0805-ren13")
@@ -408,14 +408,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp"
+    (model "${KIPRJMOD}/packages3D/0805YC106KAT2A.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" (layer "F.Cu")
+  (footprint "libs:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" (layer "F.Cu")
     (tstamp 3e36ca7f-c841-4351-8549-aacebd59f944)
     (at 161.29 86.106 -90)
     (descr "Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm")
@@ -476,7 +476,7 @@
       (net 9 "Net-(J1-Pin_1)") (pinfunction "2") (pintype "passive") (tstamp e1093e0f-607c-4da2-b643-84e3e177ba66))
   )
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "libs:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 46681478-78c4-43a1-b99d-d4f70a2a97c0)
     (at 138.43 91.694)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
@@ -531,14 +531,14 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 73ab5851-bc55-4373-9c07-aff7d5e6d3a8))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 18 "Net-(J9-Pin_1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 351be808-f78b-45f1-a1c1-f6ce909ea716))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/packages3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "50m RST:RESC3216X88N" (layer "F.Cu")
+  (footprint "libs:RESC3216X88N" (layer "F.Cu")
     (tstamp 519e9be7-a55a-4a91-b453-abe7a1ef3e14)
     (at 126.238 82.55)
     (descr "RESC3216X88N")
@@ -574,14 +574,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/RST/50m/LIB_WSLP1206R0500FEA/WSLP1206R0500FEA/3D/WSLP1206R0500FEA.stp"
+    (model "${KIPRJMOD}/packages3D/WSLP1206R0500FEA.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" (layer "F.Cu")
+  (footprint "libs:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" (layer "F.Cu")
     (tstamp 5597b831-2fb5-48af-880b-8a0bde77dcc5)
     (at 116.789 82.63 -90)
     (descr "Terminal Block Phoenix MKDS-1,5-3, 3 pins, pitch 5mm, size 15x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
@@ -592,7 +592,7 @@
     (property "ki_keywords" "connector")
     (path "/99e1293d-d4c9-4565-86e7-d5c8b22d1bcd")
     (attr through_hole)
-    (fp_text reference "J4" (at 5 -6.655 90) (layer "F.SilkS")
+    (fp_text reference "J4" (at -6.43 -0.051 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3362d1f9-696c-433f-b3b7-91848cb6af71)
     )
@@ -700,14 +700,14 @@
       (net 6 "Net-(Boost_IC1-VIN)") (pinfunction "Pin_2") (pintype "passive") (tstamp b6fc0e29-3681-48b7-a303-845610117f9d))
     (pad "3" thru_hole circle (at 10 0 270) (size 2.6 2.6) (drill 1.3) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_3") (pintype "passive") (tstamp 9d2d73e2-e9b4-416c-ae97-d74806b3b6c8))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal.wrl"
+    (model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "libs:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 57953fc8-3c82-4b88-98a2-0b06e620e0cf)
     (at 132.588 78.984 180)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
@@ -768,14 +768,14 @@
       (net 16 "Net-(J8-Pin_3)") (pinfunction "Pin_3") (pintype "passive") (tstamp 10441ff5-2dd6-4412-af6c-504763a14dd4))
     (pad "4" thru_hole oval (at 0 7.62 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 17 "Net-(J8-Pin_4)") (pinfunction "Pin_4") (pintype "passive") (tstamp 7d8549a9-100b-4745-847e-ac097e822e10))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/packages3D/PinHeader_1x04_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "1MEGA RST:RESC1608X55N" (layer "F.Cu")
+  (footprint "libs:RESC1608X55N" (layer "F.Cu")
     (tstamp 5dc9bc97-1ede-4bae-9b46-567971ae8b04)
     (at 138.43 94.742)
     (descr "MCT0603")
@@ -825,14 +825,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -180 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/RST/1MEGA/LIB_MCT0603MD1004BP500/MCT0603MD1004BP500/3D/MCT0603MD1004BP500.stp"
+    (model "${KIPRJMOD}/packages3D/MCT0603MD1004BP500.stp"
       (offset (xyz 0.7 -0.4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" (layer "F.Cu")
+  (footprint "libs:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" (layer "F.Cu")
     (tstamp 5edd34d2-c490-475f-9bad-82c694d52595)
     (at 161.29 99.842 -90)
     (descr "Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm")
@@ -893,7 +893,7 @@
       (net 5 "Net-(Boost_IC1-VOUT)") (pinfunction "2") (pintype "passive") (tstamp 87cd10a5-94af-4811-8c19-3ea61a56e49f))
   )
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "libs:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 62b4c725-a1d8-451e-8755-39e253695d5c)
     (at 136.652 86.36)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
@@ -948,14 +948,14 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 7cfbc2de-cf64-47e0-83e2-aa851ac88944))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 12 "Net-(Buck_IC1-EN)") (pinfunction "Pin_1") (pintype "passive") (tstamp 8cf9708a-3b77-4366-a748-9520eee09e95))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/packages3D/PinHeader_1x01_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
+  (footprint "libs:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (layer "F.Cu")
     (tstamp 71f70404-566e-431e-b36d-ae58bf78efe0)
     (at 136.398 82.55)
     (descr "THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm")
@@ -998,7 +998,7 @@
       (net 13 "Net-(Buck_IC1-VI)") (pinfunction "1") (pintype "passive") (tstamp 40fa7570-eca3-49b2-89eb-ba63dcfbe0f0))
   )
 
-  (footprint "BUck TPS62203DBVT:SOT95P280X145-5N" (layer "F.Cu")
+  (footprint "libs:SOT95P280X145-5N" (layer "F.Cu")
     (tstamp 7dbd742a-e05b-48e2-9e6a-5d0a4dc972c7)
     (at 140.716 83.566)
     (descr "DBV0005A-1")
@@ -1069,14 +1069,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/BCk/TPS62203DBVT/3D/TPS62203DBVT.stp"
+    (model "${KIPRJMOD}/packages3D/TPS62203DBVT.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Boost LTC3426:SOT95P280X90-6N" (layer "F.Cu")
+  (footprint "libs:SOT95P280X90-6N" (layer "F.Cu")
     (tstamp 89170706-2269-40db-8e77-b1213f4c50b5)
     (at 134.62 96.012 90)
     (descr "SOT23-6-ren2")
@@ -1149,14 +1149,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/BOOST/LTC3426ES6#TRMPBF/3D/LTC3426ES6#TRMPBF.stp"
+    (model "${KIPRJMOD}/packages3D/LTC3426ES6#TRMPBF.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "libs:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 92e6d917-5f95-4934-9e97-671bf2ef39ba)
     (at 127.762 88.641)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
@@ -1213,14 +1213,14 @@
       (net 13 "Net-(Buck_IC1-VI)") (pinfunction "Pin_1") (pintype "passive") (tstamp 94c19bfc-ac39-47c1-b679-4395dee089a1))
     (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 6 "Net-(Boost_IC1-VIN)") (pinfunction "Pin_2") (pintype "passive") (tstamp 7b5f6828-5617-4678-b4a8-ad79a28a1964))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "rst 30.9k:RC0603FR-0730K9L" (layer "F.Cu")
+  (footprint "libs:RC0603FR-0730K9L" (layer "F.Cu")
     (tstamp 9789740f-d6e7-4ccb-a4ed-e3fd722aa465)
     (at 141.732 98.298 90)
     (property "Sheetfile" "1.kicad_sch")
@@ -1374,14 +1374,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/RST/30.9k/ul_RC0603FR-0730K9L/2022-12-29_14-17-29/STEP/RC0603N_YAG.step"
+    (model "${KIPRJMOD}/packages3D/RC0603N_YAG.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Schottky DD with stock:DIOM5126X265N" (layer "F.Cu")
+  (footprint "libs:DIOM5126X265N" (layer "F.Cu")
     (tstamp beee6f09-a531-4a20-aa0d-4721cb8cd5ac)
     (at 144.272 102.87 180)
     (descr "SMA")
@@ -1435,14 +1435,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/Schottky/LIB_STPS2150A stock ond/STPS2150A/3D/STPS2150A.stp"
+    (model "${KIPRJMOD}/packages3D/STPS2150A.stp"
       (offset (xyz 0 0 1.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "rst 95.3k:RESC2012X60N" (layer "F.Cu")
+  (footprint "libs:RESC2012X60N" (layer "F.Cu")
     (tstamp bfb64e20-9ee4-4045-bfe2-603fec451506)
     (at 141.732 94.742 90)
     (descr "0805CR")
@@ -1492,14 +1492,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/RST/95.3k/LIB_CR0805-FX-9532ELF/CR0805-FX-9532ELF/3D/CR0805-FX-9532ELF.stp"
+    (model "${KIPRJMOD}/packages3D/CR0805-FX-9532ELF.stp"
       (offset (xyz 0 0 0.2))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 0))
     )
   )
 
-  (footprint "cap 4.7uf:C1210" (layer "F.Cu")
+  (footprint "libs:C1210" (layer "F.Cu")
     (tstamp c5c211e1-d9b0-4230-b555-7ab911c002ef)
     (at 132.334 84.074 90)
     (descr "C1210")
@@ -1554,16 +1554,16 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/4.7u/LIB_C1210C475K4RACAUTO/C1210C475K4RACAUTO/3D/C1210C475K4RACAUTO.stp"
+    (model "${KIPRJMOD}/packages3D/C1210C475K4RACAUTO.stp"
       (offset (xyz -1.5 -1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
   )
 
-  (footprint "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
+  (footprint "libs:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
     (tstamp c5fa24b4-207a-4f5b-b730-5c5e26e322a9)
-    (at 113.792 68.58)
+    (at 113.792 71.12)
     (descr "solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm")
     (tags "solder Pin_ loose fit")
     (property "Field4" "1")
@@ -1595,14 +1595,14 @@
       (stroke (width 0.12) (type solid)) (fill none) (layer "F.Fab") (tstamp 7b32b162-8568-4156-9671-e93dd916189c))
     (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_1") (pintype "passive") (tstamp 5cc27a5d-a3cc-4119-a233-9572c387dfff))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
+    (model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "10uF MLCC:CAPC2012X94N" (layer "F.Cu")
+  (footprint "libs:CAPC2012X94N" (layer "F.Cu")
     (tstamp c8d82ce9-9e75-4276-986b-4aea5fdc3b40)
     (at 131.064 96.266 -90)
     (descr "0805-ren13")
@@ -1655,14 +1655,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/10u MLCC/LIB_0805YC106KAT2A/0805YC106KAT2A/3D/0805YC106KAT2A.stp"
+    (model "${KIPRJMOD}/packages3D/0805YC106KAT2A.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "indc 2.2uH:IHLP2020CZER2R2M8A" (layer "F.Cu")
+  (footprint "libs:IHLP2020CZER2R2M8A" (layer "F.Cu")
     (tstamp c91667b1-512b-439e-bbab-c1eca5720631)
     (at 131.064 102.87)
     (property "Sheetfile" "1.kicad_sch")
@@ -1841,14 +1841,14 @@
       (net 6 "Net-(Boost_IC1-VIN)") (pinfunction "1") (pintype "input") (tstamp 082f65cd-82a3-4f3d-86ea-e3e19c0d6076))
     (pad "2" smd rect (at 2.032 0 90) (size 2.794 1.9812) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "Net-(Boost_IC1-SW)") (pinfunction "2") (pintype "input") (tstamp 6f802f44-f400-42ad-ab6c-ac9760a1c344))
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/INDC/2.2u/ul_IHLP2020CZER2R2M8A/2022-12-29_04-51-41/STEP/IND_IHLP-2020CZ-8A_VIS.step"
+    (model "${KIPRJMOD}/packages3D/IND_IHLP-2020CZ-8A_VIS.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "indc 10uH crct:SRN1060-100M" (layer "F.Cu")
+  (footprint "libs:SRN1060-100M" (layer "F.Cu")
     (tstamp c985165b-ef7e-4b4f-810f-878c8bb290e0)
     (at 150.876 82.804 -90)
     (property "Sheetfile" "1.kicad_sch")
@@ -1991,16 +1991,16 @@
       (net 8 "Net-(Buck_IC1-SW)") (pinfunction "1") (pintype "input") (tstamp 83c2f26d-b7a3-4fd8-9f49-09c909a549c2))
     (pad "2" smd rect (at 3.302 0 270) (size 3.5052 10.2108) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(Buck_IC1-FB)") (pinfunction "2") (pintype "input") (tstamp 33ce20c0-4803-42ce-af45-85632dd93983))
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/INDC/10uH crct/ul_SRN1060-100M/2022-12-30_05-22-47/STEP/IND_BOURNS_SRN1060.step"
+    (model "${KIPRJMOD}/packages3D/IND_BOURNS_SRN1060.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
+  (footprint "libs:Pin_D1.3mm_L11.0mm_LooseFit" (layer "F.Cu")
     (tstamp ece4eaa1-eaa3-47f4-b7c0-8790f9fe5f46)
-    (at 175.26 68.58)
+    (at 175.26 71.12)
     (descr "solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm")
     (tags "solder Pin_ loose fit")
     (property "Sheetfile" "1.kicad_sch")
@@ -2031,14 +2031,14 @@
       (stroke (width 0.12) (type solid)) (fill none) (layer "F.Fab") (tstamp cb6292a4-dc9e-4533-9a09-9789ad0194da))
     (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_1") (pintype "passive") (tstamp e5c7b1c9-2e55-4786-b470-4ab812b94824))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
+    (model "${KIPRJMOD}/packages3D/Pin_D1.3mm_L11.0mm_LooseFit.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "cap 22uF low esr and esl:C3216_Commercial" (layer "F.Cu")
+  (footprint "libs:C3216_Commercial" (layer "F.Cu")
     (tstamp ef408507-48e0-440c-9370-79ef75853399)
     (at 150.876 101.288 -90)
     (descr "C3216_Commercial")
@@ -2093,14 +2093,14 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/mnt/DAA829C1A8299CCF/EEE/S7/PROJ/COMPS/CAP/22uF low esr crctd/LIB_C3216JB1C226M160AB/C3216JB1C226M160AB/3D/C3216JB1C226M160AB.stp"
+    (model "${KIPRJMOD}/packages3D/C3216JB1C226M160AB.stp"
       (offset (xyz -1.5 0 0.69))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" (layer "F.Cu")
+  (footprint "libs:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" (layer "F.Cu")
     (tstamp f7673b3d-f617-42bb-9a84-0700537792be)
     (at 170.942 89.822 -90)
     (descr "Terminal Block Phoenix MKDS-1,5-3, 3 pins, pitch 5mm, size 15x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
@@ -2114,7 +2114,7 @@
     (property "ki_keywords" "screw terminal")
     (path "/28059cb1-6349-43cb-8aef-aa43fbccf280")
     (attr through_hole)
-    (fp_text reference "J1" (at 5 -6.26 90) (layer "F.SilkS")
+    (fp_text reference "J1" (at -6.002 -1.778 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5754cc58-1664-4f29-a28e-5240cf15c86f)
     )
@@ -2222,20 +2222,20 @@
       (net 10 "Net-(J1-Pin_2)") (pinfunction "Pin_2") (pintype "passive") (tstamp bdc8530b-fce0-440d-8bbf-ed555986756f))
     (pad "3" thru_hole circle (at 10 0 270) (size 2.6 2.6) (drill 1.3) (layers "*.Cu" "*.Mask")
       (net 2 "Earth") (pinfunction "Pin_3") (pintype "passive") (tstamp 836dd6b5-b2dd-409f-8335-2f167c2b9fea))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal.wrl"
+    (model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (gr_rect (start 109.22 66.04) (end 180.34 109.22)
+  (gr_rect (start 109.22 68.58) (end 177.8 109.22)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2c1b5fd6-69e7-4625-a88e-a28ce13b90e3))
   (gr_text "->" (at 143.256 101.092) (layer "F.SilkS") (tstamp a54b762c-1a75-444d-9c0b-4ba6592ef97d)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+    (effects (font (size 1 0.4) (thickness 0.1)) (justify left bottom))
   )
   (gr_text_box "Do not power boost subcircuit under no load"
-    (start 149.352 106.68) (end 155.448 110.236) (layer "F.SilkS") (tstamp 2e2e2dd6-f927-46dc-8491-a7710364acb8)
+    (start 154.432 104.14) (end 160.528 106.68) (layer "F.SilkS") (tstamp 2e2e2dd6-f927-46dc-8491-a7710364acb8)
       (effects (font (size 0.4 0.4) (thickness 0.1)) (justify top))
     (stroke (width 0.15) (type solid))  )
 
@@ -2368,7 +2368,7 @@
   (zone (net 2) (net_name "Earth") (layer "F.Cu") (tstamp 646b47d3-49b4-442c-9451-3baf57e8d7d6) (hatch edge 0.5)
     (connect_pads yes (clearance 0.508))
     (min_thickness 0.25) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.5) (thermal_bridge_width 0.5) (island_removal_mode 1) (island_area_min 10))
+    (fill yes (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.7) (island_removal_mode 1) (island_area_min 10))
     (polygon
       (pts
         (xy 255.524 117.348)
@@ -2733,17 +2733,23 @@
     (filled_polygon
       (layer "F.Cu")
       (pts
-        (xy 180.2775 66.057113)
-        (xy 180.322887 66.1025)
-        (xy 180.3395 66.1645)
-        (xy 180.3395 109.0955)
-        (xy 180.322887 109.1575)
-        (xy 180.2775 109.202887)
-        (xy 180.2155 109.2195)
-        (xy 109.3445 109.2195)
-        (xy 109.2825 109.202887)
-        (xy 109.237113 109.1575)
-        (xy 109.2205 109.0955)
+        (xy 177.096591 68.589939)
+        (xy 177.136819 68.616819)
+        (xy 177.763181 69.243181)
+        (xy 177.790061 69.283409)
+        (xy 177.7995 69.330862)
+        (xy 177.7995 108.469138)
+        (xy 177.790061 108.516591)
+        (xy 177.763181 108.556819)
+        (xy 177.136819 109.183181)
+        (xy 177.096591 109.210061)
+        (xy 177.049138 109.2195)
+        (xy 109.970862 109.2195)
+        (xy 109.923409 109.210061)
+        (xy 109.883181 109.183181)
+        (xy 109.256819 108.556819)
+        (xy 109.229939 108.516591)
+        (xy 109.2205 108.469138)
         (xy 109.2205 87.63)
         (xy 114.975428 87.63)
         (xy 114.995684 87.900297)
@@ -5315,11 +5321,13 @@
         (xy 114.995684 87.359702)
         (xy 114.975428 87.63)
         (xy 109.2205 87.63)
-        (xy 109.2205 66.1645)
-        (xy 109.237113 66.1025)
-        (xy 109.2825 66.057113)
-        (xy 109.3445 66.0405)
-        (xy 180.2155 66.0405)
+        (xy 109.2205 69.330862)
+        (xy 109.229939 69.283409)
+        (xy 109.256819 69.243181)
+        (xy 109.883181 68.616819)
+        (xy 109.923409 68.589939)
+        (xy 109.970862 68.5805)
+        (xy 177.049138 68.5805)
       )
     )
   )
