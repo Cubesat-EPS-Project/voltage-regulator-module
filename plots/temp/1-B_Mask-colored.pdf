@@ -1,0 +1,745 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/ProcSet [ /PDF /Text /ImageC /ImageB ]
+/Font 5 0 R
+>>
+/MediaBox [ 0 0 841.896 595.296 ]
+/Contents 10 0 R
+/Annots 11 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/KicadFont 6 0 R
+/KicadFontI 7 0 R
+/KicadFontB 8 0 R
+/KicadFontBI 9 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<<
+/Length 5979
+>>
+stream
+0.0072 0 0 0.0072 0 0 cm
+1 J
+1 j
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+72039.4 40680 m
+72039.4 41005.9 72304.1 41270.6 72630 41270.6 c
+72955.9 41270.6 73220.6 41005.9 73220.6 40680 c
+73220.6 40354.1 72955.9 40089.4 72630 40089.4 c
+72304.1 40089.4 72039.4 40354.1 72039.4 40680 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+67425.3 43684.7 m
+67425.3 44275.3 l
+66834.7 44275.3 l
+66834.7 43684.7 l
+67425.3 43684.7 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+47339.4 40680 m
+47339.4 41005.9 47604.1 41270.6 47930 41270.6 c
+48255.9 41270.6 48520.6 41005.9 48520.6 40680 c
+48520.6 40354.1 48255.9 40089.4 47930 40089.4 c
+47604.1 40089.4 47339.4 40354.1 47339.4 40680 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+62825.3 41884.7 m
+62825.3 42475.3 l
+62234.7 42475.3 l
+62234.7 41884.7 l
+62825.3 41884.7 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+53154.4 48780 m
+53154.4 48932.1 53277.9 49055.6 53430 49055.6 c
+53582.1 49055.6 53705.6 48932.1 53705.6 48780 c
+53705.6 48627.9 53582.1 48504.4 53430 48504.4 c
+53277.9 48504.4 53154.4 48627.9 53154.4 48780 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+53154.4 47780 m
+53154.4 47932.1 53277.9 48055.6 53430 48055.6 c
+53582.1 48055.6 53705.6 47932.1 53705.6 47780 c
+53705.6 47627.9 53582.1 47504.4 53430 47504.4 c
+53277.9 47504.4 53154.4 47627.9 53154.4 47780 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+62764.6 46245.4 m
+62764.6 46914.6 l
+62095.4 46914.6 l
+62095.4 46245.4 l
+62764.6 46245.4 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+71461.9 50660.3 m
+70438.3 50660.3 l
+70438.3 49636.7 l
+71461.9 49636.7 l
+71461.9 50660.3 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+70438.3 48180 m
+70438.3 48462.4 70667.7 48691.8 70950.1 48691.8 c
+71232.5 48691.8 71461.9 48462.4 71461.9 48180 c
+71461.9 47897.6 71232.5 47668.2 70950.1 47668.2 c
+70667.7 47668.2 70438.3 47897.6 70438.3 48180 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+70438.3 46211.5 m
+70438.3 46493.9 70667.7 46723.3 70950.1 46723.3 c
+71232.5 46723.3 71461.9 46493.9 71461.9 46211.5 c
+71461.9 45929.1 71232.5 45699.7 70950.1 45699.7 c
+70667.7 45699.7 70438.3 45929.1 70438.3 46211.5 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+64395.4 51918.6 m
+64395.4 51249.3 l
+65064.6 51249.3 l
+65064.6 51918.6 l
+64395.4 51918.6 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+64395.4 52583.9 m
+64395.4 52768.6 64545.3 52918.6 64730 52918.6 c
+64914.7 52918.6 65064.6 52768.6 65064.6 52583.9 c
+65064.6 52399.3 64914.7 52249.3 64730 52249.3 c
+64545.3 52249.3 64395.4 52399.3 64395.4 52583.9 c
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+64395.4 53583.9 m
+64395.4 53768.6 64545.3 53918.6 64730 53918.6 c
+64914.7 53918.6 65064.6 53768.6 65064.6 53583.9 c
+65064.6 53399.3 64914.7 53249.3 64730 53249.3 c
+64545.3 53249.3 64395.4 53399.3 64395.4 53583.9 c
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+64395.4 54583.9 m
+64395.4 54768.6 64545.3 54918.6 64730 54918.6 c
+64914.7 54918.6 65064.6 54768.6 65064.6 54583.9 c
+65064.6 54399.3 64914.7 54249.3 64730 54249.3 c
+64545.3 54249.3 64395.4 54399.3 64395.4 54583.9 c
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+53154.4 43372.1 m
+53154.4 43524.2 53277.9 43647.7 53430 43647.7 c
+53582.1 43647.7 53705.6 43524.2 53705.6 43372.1 c
+53705.6 43220.1 53582.1 43096.5 53430 43096.5 c
+53277.9 43096.5 53154.4 43220.1 53154.4 43372.1 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+53154.4 42372.1 m
+53154.4 42524.2 53277.9 42647.7 53430 42647.7 c
+53582.1 42647.7 53705.6 42524.2 53705.6 42372.1 c
+53705.6 42220.1 53582.1 42096.5 53430 42096.5 c
+53277.9 42096.5 53154.4 42220.1 53154.4 42372.1 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+63464.6 48345.4 m
+63464.6 49014.6 l
+62795.4 49014.6 l
+62795.4 48345.4 l
+63464.6 48345.4 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+63525.3 49884.7 m
+63525.3 50475.3 l
+62934.7 50475.3 l
+62934.7 49884.7 l
+63525.3 49884.7 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+66964.6 47447.3 m
+66964.6 48116.6 l
+66295.4 48116.6 l
+66295.4 47447.3 l
+66964.6 47447.3 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+66295.4 46782 m
+66295.4 46966.6 66445.3 47116.6 66630 47116.6 c
+66814.7 47116.6 66964.6 46966.6 66964.6 46782 c
+66964.6 46597.3 66814.7 46447.3 66630 46447.3 c
+66445.3 46447.3 66295.4 46597.3 66295.4 46782 c
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+71539.4 54680 m
+71539.4 55005.9 71804.1 55270.6 72130 55270.6 c
+72455.9 55270.6 72720.6 55005.9 72720.6 54680 c
+72720.6 54354.1 72455.9 54089.4 72130 54089.4 c
+71804.1 54089.4 71539.4 54354.1 71539.4 54680 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+47339.4 54680 m
+47339.4 55005.9 47604.1 55270.6 47930 55270.6 c
+48255.9 55270.6 48520.6 55005.9 48520.6 54680 c
+48520.6 54354.1 48255.9 54089.4 47930 54089.4 c
+47604.1 54089.4 47339.4 54354.1 47339.4 54680 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+50141.8 47828.8 m
+49118.2 47828.8 l
+49118.2 46805.2 l
+50141.8 46805.2 l
+50141.8 47828.8 l
+b
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+49118.2 45348.5 m
+49118.2 45630.9 49347.6 45860.3 49630 45860.3 c
+49912.4 45860.3 50141.8 45630.9 50141.8 45348.5 c
+50141.8 45066.1 49912.4 44836.7 49630 44836.7 c
+49347.6 44836.7 49118.2 45066.1 49118.2 45348.5 c
+b
+8.34646 w
+0.75294 0.75294 0.75294 rg
+0.75294 0.75294 0.75294 RG
+0.00039 w
+49118.2 43380 m
+49118.2 43662.4 49347.6 43891.8 49630 43891.8 c
+49912.4 43891.8 50141.8 43662.4 50141.8 43380 c
+50141.8 43097.6 49912.4 42868.2 49630 42868.2 c
+49347.6 42868.2 49118.2 43097.6 49118.2 43380 c
+b
+8.34646 w
+
+endstream
+endobj
+11 0 obj
+[ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R ]
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 354.824 368.71 365.176 392.762 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC2990\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072SOP50P490X110\05510N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 MS10\050MSOP\051\055LTC2990\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Integrated Circuit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 294.82 283.719 343.1 300.656 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J3\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Screw\137Terminal\13701x01\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic screw terminal\054 single row\054 01x01\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 screw terminal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072Pin\137D1\0563mm\137L11\0560mm\137LooseFit\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 solder Pin\137 diameter 1\0563mm\054 hole diameter 1\0565mm \050loose fit\051\054 length 11\0560mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 solder Pin\137 loose fit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 345.105 309.747 368.527 323.282 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 TP1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TestPoint\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 test point\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 test point tp\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TestPoint\137THTPad\1371\0565x1\0565mm\137Drill0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 THT rectangular pad as test Point\054 square 1\0565mm side length\054 hole diameter 0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 test point THT pad rectangle square\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 472.66 283.719 520.94 300.656 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Screw\137Terminal\13701x01\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic screw terminal\054 single row\054 01x01\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 screw terminal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072Pin\137D1\0563mm\137L11\0560mm\137LooseFit\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 solder Pin\137 diameter 1\0563mm\054 hole diameter 1\0565mm \050loose fit\051\054 length 11\0560mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 solder Pin\137 loose fit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 381.713 296.787 401.647 310.322 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 TP5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TestPoint\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 test point\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 test point tp\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TestPoint\137THTPad\1371\0565x1\0565mm\137Drill0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 THT rectangular pad as test Point\054 square 1\0565mm side length\054 hole diameter 0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 test point THT pad rectangle square\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 392.666 345.636 411.78 351.756 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 C4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 10uF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Cap Aluminum Lytic 10uF 35V 20\045 \0505 X 5\0568mm\051 SMD 0\0567 Ohm 160mA 2000h 105C T\057R\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 6\0561\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 Cornell Dubilier\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 AFK106M35C12T\055F\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 598\055AFK106M35C12T\055F\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Cornell\055Dubilier\055CDE\057AFK106M35C12T\055F\077qs\075AYHylYxnIynAqk5QKPbEdQ\0453D\0453D\047\054 cReturn\072 \047https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Cornell\055Dubilier\055CDE\057AFK106M35C12T\055F\077qs\075AYHylYxnIynAqk5QKPbEdQ\0453D\0453D\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Cap Aluminum Lytic 10uF 35V 20\045 \0505 X 5\0568mm\051 SMD 0\0567 Ohm 160mA 2000h 105C T\057R\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072CAPC2012X94N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 0805\055ren13\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Capacitor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 449.582 330.563 464.818 364.669 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 TP8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TestPoint\1372Pole\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 2\055polar test point\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 point tp\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TestPoint\1372Pads\137Pitch2\05654mm\137Drill0\0568mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Test point with 2 pins\054 pitch 2\05654mm\054 drill diameter 0\0568mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 CONN DEV\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 374.807 326.822 409.993 340.549 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J9\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Conn\13701x01\137Pin\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x01\054 script generated\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072PinHeader\1371x01\137P2\05654mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x01\054 2\05654mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x01 2\05654mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 341.679 351.396 363.6 369.396 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 R5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 50m\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 R res resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072RESC3216X88N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 RESC3216X88N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Resistor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 313.063 324.148 347.312 381.974 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Conn\13701x03\137Pin\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x03\054 script generated\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TerminalBlock\137Phoenix\137MKDS\0551\0545\0553\1371x03\137P5\05600mm\137Horizontal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Terminal Block Phoenix MKDS\0551\0545\0553\054 3 pins\054 pitch 5mm\054 size 15x9\0568mm\1362\054 drill diamater 1\0563mm\054 pad diameter 2\0566mm\054 see http\072\057\057www\056farnell\056com\057datasheets\057100425\056pdf\054 script\055generated using https\072\057\057github\056com\057pointhi\057kicad\055footprint\055generator\057scripts\057TerminalBlock\137Phoenix\047\054 cReturn\072 \047http\072\057\057www\056farnell\056com\057datasheets\057100425\056pdf\054 script\055generated using https\072\057\057github\056com\057pointhi\057kicad\055footprint\055generator\057scripts\057TerminalBlock\137Phoenix\047 \175\054 \173 cName\072 \047Keywords \075 THT Terminal Block Phoenix MKDS\0551\0545\0553 pitch 5mm size 15x9\0568mm\1362 drill 1\0563mm pad 2\0566mm\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 358.247 366.231 393.433 401.558 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Conn\13701x04\137Pin\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x04\054 script generated\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072PinHeader\1371x04\137P2\05654mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x04\054 2\05654mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x04 2\05654mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+23 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 388.089 318.996 396.711 336.636 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 R3\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 1M\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 R res resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072RESC1608X55N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 MCT0603\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Resistor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+24 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 449.582 291.626 464.818 325.733 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 TP9\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TestPoint\1372Pole\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 2\055polar test point\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 point tp\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TestPoint\1372Pads\137Pitch2\05654mm\137Drill0\0568mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Test point with 2 pins\054 pitch 2\05654mm\054 drill diameter 0\0568mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 CONN DEV\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+25 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 369.767 341.942 404.953 359.05 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Conn\13701x01\137Pin\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x01\054 script generated\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072PinHeader\1371x01\137P2\05654mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x01\054 2\05654mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x01 2\05654mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+26 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 376.673 354.387 396.607 369.005 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 TP3\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TestPoint\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 test point\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 test point tp\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TestPoint\137THTPad\1371\0565x1\0565mm\137Drill0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 THT rectangular pad as test Point\054 square 1\0565mm side length\054 hole diameter 0\0567mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 test point THT pad rectangle square\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+27 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 378.369 353.314 419.391 374.796 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 Buck\137IC1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 TPS62203DBVT\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 3\0563\055V Output\054 300\055mA\054 95\045 Efficient Step\055Down Converter in SOT\05523\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 1\05645\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 Texas Instruments\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 TPS62203DBVT\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 595\055TPS62203DBVT\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Texas\055Instruments\057TPS62203DBVT\077qs\075Gse6rAGbi78wvyrSvCxXew\0453D\0453D\047\054 cReturn\072 \047https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Texas\055Instruments\057TPS62203DBVT\077qs\075Gse6rAGbi78wvyrSvCxXew\0453D\0453D\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 3\0563\055V Output\054 300\055mA\054 95\045 Efficient Step\055Down Converter in SOT\05523\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072SOT95P280X145\0555N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DBV0005A\0551\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Integrated Circuit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+28 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 374.974 287.316 402.626 336.962 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 Boost\137IC1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC3426\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Linear Technology LTC3426ES6\043TRMPBF\054 Step Up DC\055DC Converter\054 Adjustable\054 2\05625  5 V 6\055Pin\054 TSOT\05523\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 0\0569\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 Analog Devices\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 LTC3426ES6\043TRMPBF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 584\055LTC3426ES6TRMPBF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056com\057Search\057Refine\056aspx\077Keyword\075584\055LTC3426ES6TRMPBF\047\054 cReturn\072 \047https\072\057\057www\056mouser\056com\057Search\057Refine\056aspx\077Keyword\075584\055LTC3426ES6TRMPBF\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Linear Technology LTC3426ES6\043TRMPBF\054 Step Up DC\055DC Converter\054 Adjustable\054 2\05625  5 V 6\055Pin\054 TSOT\05523\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072SOT95P280X90\0556N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 SOT23\0556\055ren2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Power Supply\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+29 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 356.445 326.947 367.875 349.203 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 JMP1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 EN\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x02\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072PinHeader\1371x02\137P2\05654mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x02\054 2\05654mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x02 2\05654mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+30 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 390.019 297.038 413.501 347.182 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 R2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 30\0569k\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 R res resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072RC0603FR\0550730K9L\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 \047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 393.42 293.076 424.5 308.586 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 D1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 STPS2150A\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Schottky diode\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 diode Schottky\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072DIOM5126X265N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 SMA\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Diode\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+32 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 398.996 318.739 409.5 339.43 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 R1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 95\0563k\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 R res resistor\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072RESC2012X60N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 0805CR\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Resistor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+33 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 368.671 343.476 381.569 365.196 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 C3\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 4\0567uF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 SMD Auto X7R\054 Ceramic\054 4\0567 uF\054 10\045\054 16 VDC\054 40 VDC\054 125C\054 \05555C\054 X7R\054 SMD\054 MLCC\054 Temperature Stable\054 Automotive Grade\054 3\0565 \045 \054 106\0564 MOhms\054 40 mg\054 1210\054 3\0562mm\054 2\0565mm\054 0\0569mm\054 0\0565mm\054 4000\054 78  Weeks\054 80\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 KEMET\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 C1210C475K4RACAUTO\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 80\055C1210C475K4RAUTO\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057KEMET\057C1210C475K4RACAUTO\077qs\075ds50AKTGxA\045252BKRDrrpcR4kg\0453D\0453D\047\054 cReturn\072 \047https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057KEMET\057C1210C475K4RACAUTO\077qs\075ds50AKTGxA\045252BKRDrrpcR4kg\0453D\0453D\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 SMD Auto X7R\054 Ceramic\054 4\0567 uF\054 10\045\054 16 VDC\054 40 VDC\054 125C\054 \05555C\054 X7R\054 SMD\054 MLCC\054 Temperature Stable\054 Automotive Grade\054 3\0565 \045 \054 106\0564 MOhms\054 40 mg\054 1210\054 3\0562mm\054 2\0565mm\054 0\0569mm\054 0\0565mm\054 4000\054 78  Weeks\054 80\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072C1210\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 C1210\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Capacitor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+34 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 298.42 384.519 346.7 401.456 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Screw\137Terminal\13701x01\047\054 cReturn\072 null \175\054 \173 cName\072 \047Field4 \075 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic screw terminal\054 single row\054 01x01\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 screw terminal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072Pin\137D1\0563mm\137L11\0560mm\137LooseFit\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 solder Pin\137 diameter 1\0563mm\054 hole diameter 1\0565mm \050loose fit\051\054 length 11\0560mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 solder Pin\137 loose fit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+35 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 366.746 312.516 374.854 329.556 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 C1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 10uF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Cap Aluminum Lytic 10uF 35V 20\045 \0505 X 5\0568mm\051 SMD 0\0567 Ohm 160mA 2000h 105C T\057R\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 6\0561\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 Cornell Dubilier\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 AFK106M35C12T\055F\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 598\055AFK106M35C12T\055F\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Cornell\055Dubilier\055CDE\057AFK106M35C12T\055F\077qs\075AYHylYxnIynAqk5QKPbEdQ\0453D\0453D\047\054 cReturn\072 \047https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Cornell\055Dubilier\055CDE\057AFK106M35C12T\055F\077qs\075AYHylYxnIynAqk5QKPbEdQ\0453D\0453D\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Cap Aluminum Lytic 10uF 35V 20\045 \0505 X 5\0568mm\051 SMD 0\0567 Ohm 160mA 2000h 105C T\057R\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072CAPC2012X94N\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 0805\055ren13\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Capacitor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+36 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 347.85 283.97 392.83 312.191 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 L1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 2\0562uH\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Inductor symbol for simulation only\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 simulation\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072IHLP2020CZER2R2M8A\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 \047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+37 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 402.475 316.496 457.918 387.07 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 L2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 10uH\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Inductor symbol for simulation only\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 simulation\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072SRN1060\055100M\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 \047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+38 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 472.66 384.519 520.94 401.456 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J6\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Screw\137Terminal\13701x01\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic screw terminal\054 single row\054 01x01\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 screw terminal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072Pin\137D1\0563mm\137L11\0560mm\137LooseFit\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 solder Pin\137 diameter 1\0563mm\054 hole diameter 1\0565mm \050loose fit\051\054 length 11\0560mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 solder Pin\137 loose fit\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+39 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 421.94 299.039 433.42 327.996 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 C2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 22uF\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Murata 0603 B 22uF Ceramic Multilayer Capacitor\054 10 V dc\054 \05385C\054 X5R Dielectric\054 \053\057\05520\045\047\054 cReturn\072 null \175\054 \173 cName\072 \047Height \075 1\0562\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Name \075 Murata Electronics\047\054 cReturn\072 null \175\054 \173 cName\072 \047Manufacturer\137Part\137Number \075 ZRB18AR61A226ME01L\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Part Number \075 81\055ZRB18AR61A226ME1L\047\054 cReturn\072 null \175\054 \173 cName\072 \047Mouser Price\057Stock \075 https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Murata\055Electronics\057ZRB18AR61A226ME01L\077qs\0755aG0NVq1C4zcCU98as8CPQ\0453D\0453D\047\054 cReturn\072 \047https\072\057\057www\056mouser\056co\056uk\057ProductDetail\057Murata\055Electronics\057ZRB18AR61A226ME01L\077qs\0755aG0NVq1C4zcCU98as8CPQ\0453D\0453D\047 \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Murata 0603 B 22uF Ceramic Multilayer Capacitor\054 10 V dc\054 \05385C\054 X5R Dielectric\054 \053\057\05520\045\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072C3216\137Commercial\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 C3216\137Commercial\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Capacitor\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+40 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 466.567 302.369 500.817 360.374 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 J1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 Screw\137Terminal\13701x03\047\054 cReturn\072 null \175\054 \173 cName\072 \047Field4 \075 5V\047\054 cReturn\072 null \175\054 \173 cName\072 \047Field5 \075 3\0563V\047\054 cReturn\072 null \175\054 \173 cName\072 \047Field6 \075 GND\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 1\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic screw terminal\054 single row\054 01x03\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 screw terminal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 libs\072TerminalBlock\137Phoenix\137MKDS\0551\0545\0553\1371x03\137P5\05600mm\137Horizontal\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Terminal Block Phoenix MKDS\0551\0545\0553\054 3 pins\054 pitch 5mm\054 size 15x9\0568mm\1362\054 drill diamater 1\0563mm\054 pad diameter 2\0566mm\054 see http\072\057\057www\056farnell\056com\057datasheets\057100425\056pdf\054 script\055generated using https\072\057\057github\056com\057pointhi\057kicad\055footprint\055generator\057scripts\057TerminalBlock\137Phoenix\047\054 cReturn\072 \047http\072\057\057www\056farnell\056com\057datasheets\057100425\056pdf\054 script\055generated using https\072\057\057github\056com\057pointhi\057kicad\055footprint\055generator\057scripts\057TerminalBlock\137Phoenix\047 \175\054 \173 cName\072 \047Keywords \075 THT Terminal Block Phoenix MKDS\0551\0545\0553 pitch 5mm size 15x9\0568mm\1362 drill 1\0563mm pad 2\0566mm\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000113 00000 n 
+0000000295 00000 n 
+0000000344 00000 n 
+0000000437 00000 n 
+0000000534 00000 n 
+0000000639 00000 n 
+0000000741 00000 n 
+0000000850 00000 n 
+0000006882 00000 n 
+0000007105 00000 n 
+0000008263 00000 n 
+0000009842 00000 n 
+0000011295 00000 n 
+0000012875 00000 n 
+0000014328 00000 n 
+0000016562 00000 n 
+0000017979 00000 n 
+0000019481 00000 n 
+0000020774 00000 n 
+0000022881 00000 n 
+0000024383 00000 n 
+0000025672 00000 n 
+0000027089 00000 n 
+0000028590 00000 n 
+0000030043 00000 n 
+0000032267 00000 n 
+0000034485 00000 n 
+0000036043 00000 n 
+0000037330 00000 n 
+0000038623 00000 n 
+0000039914 00000 n 
+0000042498 00000 n 
+0000044144 00000 n 
+0000046379 00000 n 
+0000047685 00000 n 
+0000048986 00000 n 
+0000050566 00000 n 
+0000052840 00000 n 
+trailer
+<<
+/Size 41
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+55245
+%%EOF
